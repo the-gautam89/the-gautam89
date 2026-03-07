@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hii 👋, Myself Gautam
 
+🚀 Aspiring Electronics and software Engineer | 🎓 ECE @ NIT Srinagar | 💻 Passionate about learning new things 
 <!--
 **the-gautam89/the-gautam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
