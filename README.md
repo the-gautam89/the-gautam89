@@ -29,21 +29,21 @@
 <tr>
 <td><b>AI / Data Science</b></td>
 <td>
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
+<!-- ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flasquare&logo=pandas&logoColor=white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white) 
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white) 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) -->
 
 </td>
 </tr>
 
-<tr>
+<!-- <tr>
   <td><b>Developer Tools</b></td>
   <td>
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-  </td>
-</tr>
+  </td> -->
+<!-- </tr> -->
 </table>
