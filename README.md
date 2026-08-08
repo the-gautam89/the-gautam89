@@ -1,17 +1,39 @@
-## Hii 👋, Myself Gautam
+# 🛠️ Tech Stack & Skillset
 
-🚀 Aspiring Electronics and software Engineer | 🎓 ECE @ NIT Srinagar | 💻 Passionate about learning new things 
-<!--
-**the-gautam89/the-gautam89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td><b>Category</b></td>
+<td><b>Tools & Technologies</b></td>
+</tr>
 
-Here are some ideas to get you started:
+<tr>
+<td><b>Languages</b></td>
+<td>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>Web & Frameworks</b></td>
+<td>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI / Data Science</b></td>
+<td>
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+</td>
+</tr>
+</table>
