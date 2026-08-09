@@ -1,5 +1,11 @@
+<div align="center"></div>
+<h1> Hello! ✌️It's me Gautam</h1>
 # 🛠️ Tech Stack & Skillset
 
+
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Software+Engineer;3rd+Year+ECE+%40+NIT+Srinagar+(2028);DSA+%26+Competitive+Programming;Full-Stack+%26+AI%2FML+Developer;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+  </a>
 <table>
 <tr>
 <td><b>Category</b></td>
