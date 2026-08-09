@@ -4,7 +4,7 @@
 
 <p align="center">
   <a  href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+&+ML+Engineer;3rd+Year+ECE+%40+NIT+Srinagar+(2028);DSA+%26+Competitive+Programming;Building+Scalable+Software+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=AI+and+ML+Engineer;3rd+Year+ECE+%40+NIT+Srinagar+(2028);DSA+%26+Competitive+Programming;Building+Scalable+Software+Solutions" alt="Typing SVG" />
   </a>
   </p>
 <br/><br/>
